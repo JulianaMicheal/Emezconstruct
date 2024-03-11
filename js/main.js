@@ -61,8 +61,7 @@
         items: 1,
         dots: false,
         loop: true,
-    });
-    
+    });   
 })(jQuery);
 
 
@@ -99,3 +98,8 @@
         return emailRegex.test(email);
     }
 });*/
+
+
+
+
+   
